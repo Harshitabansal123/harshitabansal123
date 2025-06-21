@@ -13,6 +13,19 @@ I'm **Harshita Bansal**, a developer passionate about building smart, human-cent
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` `JavaScript` `HTML` `CSS` `SQL`
+
+**Frameworks & Libraries:**  
+`Flask` `Django` `React.js` `Tailwind CSS` `NumPy` `OpenCV` 
+
+**Tools & Platforms:**  
+`Git` `GitHub` `MongoDB` `Firebase`  `VS Code`   `PowerBi` 
+
+
+
 ### 🛠 Skills & Technologies
 *Languages:*  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
