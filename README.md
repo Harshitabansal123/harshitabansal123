@@ -13,7 +13,7 @@ I'm **Harshita Bansal**, a developer passionate about building smart, human-cent
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 **Languages:**  
 `Python` `JavaScript` `HTML` `CSS` `SQL`
@@ -25,17 +25,6 @@ I'm **Harshita Bansal**, a developer passionate about building smart, human-cent
 `Git` `GitHub` `MongoDB` `Firebase`  `VS Code`   `PowerBi` 
 
 
-
-### 🛠 Skills & Technologies
-*Languages:*  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-*Frameworks & Tools:*  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -54,7 +43,7 @@ I'm **Harshita Bansal**, a developer passionate about building smart, human-cent
 
 ---
 
-<p align="center">💖 Thank you for visiting my profile — feel free to say hello! 
+<p align="center">🔚 Thanks for visiting my GitHub — see you in the code!
 
 <!--
 **Harshitabansal123/harshitabansal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
