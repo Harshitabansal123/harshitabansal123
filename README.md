@@ -1,9 +1,6 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
-</p>
 
-## 👋 Hey there, I'm [Harshita Bansal]!  
+
+## 👋 Hey there, I'm Harshita Bansal!  
 
 💻 Passionate Developer | 🎨 Designer | 🚀 Tech Enthusiast
 
