@@ -27,7 +27,15 @@ I'm **Harshita Bansal**, a developer passionate about building smart, human-cent
 
 
 ---
+### Projects
 
+**ExploreEase** - AI  Travel Itinerary Planner
+ Built a smart travel planner using Flask(Python) and MongoDB to generate personalized travel itineraries based on user preferences.
+**VirtuEd** - Reimagining Education with AI and Imagination
+Building a educational platform for several ai agents like Historical Time Machine,Time travel tutor functionality etc.
+
+
+---
 ### 📊 GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshitabansal123&show_icons=true&theme=radical" alt="GitHub stats" width="500"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="500" alt="GitHub streak" /> |
