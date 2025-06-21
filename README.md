@@ -28,7 +28,7 @@ I'm **Harshita Bansal**, a developer passionate about building smart, human-cent
 
 ### 📊 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" width="500"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="500" alt="GitHub streak" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshitabansal123&show_icons=true&theme=radical" alt="GitHub stats" width="500"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="500" alt="GitHub streak" /> |
 | ------------- | ------------- |
 
 ---
