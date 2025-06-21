@@ -34,7 +34,7 @@ I'm **Harshita Bansal**, a developer passionate about building smart, human-cent
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://www.linkedin.com/in/harshita-bansal-29605b328/)
+[LinkedIn](https://www.linkedin.com/in/harshita-bansal-29605b328/)
 
 
 ---
